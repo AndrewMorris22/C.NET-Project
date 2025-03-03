@@ -1,3 +1,3 @@
-**Briefly summarize the requirements and goals of the application you developed. What user needs was this application designed to address?**
+# Briefly summarize the requirements and goals of the application you developed. What user needs was this application designed to address?
 When it comes to the requirements of the applications there was a couple of things that was needed. First we needed a way for people to select what classes they are want to be in and a way for the application can track how many course hours you had. Next we needed a way for them to cap off the ammount of classes to be 3, so that way you would have 9 hours of credit and the application wouldn't add the new class and would tell people that they have too many hours. Finaly we need a way for the application to not select the same class again, so it wouldn't be added to the total credits and tells the user can not select the same thing.
-**What did you do particularly well in developing this application?**
+# What did you do particularly well in developing this application?
